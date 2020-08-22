@@ -1199,7 +1199,7 @@ grid-gap: 15rem;
         height: 100%;
     
         background: url("images/triangle.jpg") no-repeat fixed ;
-        background-size: 1080px 2600px ;
+        background-size: cover;
     }
 #videobg{
     display: none;
